@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: linear-gradient(to right, #ff6b6b, #ffb86c, #ffe66d, #e6ff6d, #b8ff6c, #6cffb8, #6dffe6, #6cffff, #6dffff, #6cffb8, #6cff6d, #b8ff6c, #e6ff6d, #ffe66d, #ffb86c, #ff6e60);
+}
+
+textarea{ 
+    width: 100%; 
+    height: 300px; 
+    margin-top: 10px; 
+}
+
+button{ 
+    margin-top: 10px; 
+    padding: 5px by 10px; 
+    font-size: 16px; 
+    cursor: pointer; 
+}
